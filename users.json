@@ -14,5 +14,14 @@
     "email": "Nbnbhgjjjvjghv@hchv.hh",
     "password_hash": "scrypt:32768:8:1$WiQF0gjTXD79PIqu$b2c2f6b9f792aa39fdd20252fa8b3fb6169fa7c530e6161dee5e0bb3723276b7fd6dd9b26f9b44475368ebfc5b9ea4f8cea43fd77af65a5e353b015b453aa4be",
     "avatar_url": null
+  },
+  "84eb623e-064f-4513-943e-15ec5ac84d58": {
+    "id": "84eb623e-064f-4513-943e-15ec5ac84d58",
+    "github_id": null,
+    "username": "Hghfhv",
+    "email": "Nbnbjvjhjbkjghv@hchv.hh",
+    "password_hash": "scrypt:32768:8:1$O2AxRMQuaWr2uR1c$085c92304bc640e8e53fb18cc7b0dc7d7f7f4321ed772824c132475900bb5675f5e7f09dff745fcd78dc06634ab1e0013fb95feca580209457d1762b621be62f",
+    "avatar_url": null,
+    "is_admin": false
   }
 }
