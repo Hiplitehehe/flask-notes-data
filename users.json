@@ -22,7 +22,7 @@
     "email": "Nbnbjvjhjbkjghv@hchv.hh",
     "password_hash": "scrypt:32768:8:1$O2AxRMQuaWr2uR1c$085c92304bc640e8e53fb18cc7b0dc7d7f7f4321ed772824c132475900bb5675f5e7f09dff745fcd78dc06634ab1e0013fb95feca580209457d1762b621be62f",
     "avatar_url": null,
-    "is_admin": true
+    "is_admin": false
   },
   "375bd8d9-4d92-4123-918c-51bb128b3b2a": {
     "id": "375bd8d9-4d92-4123-918c-51bb128b3b2a",
