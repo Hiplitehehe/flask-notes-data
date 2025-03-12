@@ -49,6 +49,6 @@
     "email": "Nbnhjbjbjbjvjghv@hchv.hh",
     "password_hash": "scrypt:32768:8:1$rYTIGMUhkFigc8Pm$3ccfe6215c805b228739c193bc07db20c158b59c9f7017c8bba0571314913a805a153e9780a08e84724a55752a63c52dc6d7ad7a52572b464d6e7c30937f06c1",
     "avatar_url": null,
-    "is_admin": false
+    "is_admin": true
   }
 }
