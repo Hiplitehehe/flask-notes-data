@@ -23,5 +23,14 @@
     "password_hash": "scrypt:32768:8:1$O2AxRMQuaWr2uR1c$085c92304bc640e8e53fb18cc7b0dc7d7f7f4321ed772824c132475900bb5675f5e7f09dff745fcd78dc06634ab1e0013fb95feca580209457d1762b621be62f",
     "avatar_url": null,
     "is_admin": false
+  },
+  "375bd8d9-4d92-4123-918c-51bb128b3b2a": {
+    "id": "375bd8d9-4d92-4123-918c-51bb128b3b2a",
+    "github_id": null,
+    "username": "Hghfhv",
+    "email": "Nbnbjjnnjvjhjbkjghv@hchv.hh",
+    "password_hash": "scrypt:32768:8:1$U9RYUuQa7BGGInVr$fb08b4511c762528f5797584ce10f355b17288450243435d786a8122752eff1cdf3f02b27865192a1210f324f548d5c1cc2e79186933cc607e64469aa29cfbdc",
+    "avatar_url": null,
+    "is_admin": false
   }
 }
