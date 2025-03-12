@@ -6,5 +6,13 @@
     "email": "Nbnbjvjghv@hchv.hh",
     "password_hash": "scrypt:32768:8:1$z3fDwbANwEl1nNiN$716d6788f42001a3022a8a25c0e9c6b64cd6e1e6794f33dbb6817000c7ac56a211d5d3ec8f42ae6d1369a784995634cc2d4a650a87223f65f7736be0df6d5df3",
     "avatar_url": null
+  },
+  "47abed83-8cd5-4eb9-9ac0-a75652a3955b": {
+    "id": "47abed83-8cd5-4eb9-9ac0-a75652a3955b",
+    "github_id": null,
+    "username": "adminnbn",
+    "email": "Nbnbhgjjjvjghv@hchv.hh",
+    "password_hash": "scrypt:32768:8:1$WiQF0gjTXD79PIqu$b2c2f6b9f792aa39fdd20252fa8b3fb6169fa7c530e6161dee5e0bb3723276b7fd6dd9b26f9b44475368ebfc5b9ea4f8cea43fd77af65a5e353b015b453aa4be",
+    "avatar_url": null
   }
 }
