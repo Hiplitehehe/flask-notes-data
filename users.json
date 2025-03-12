@@ -1,1 +1,10 @@
-{}
+{
+  "ad61adb7-77f1-48cf-8a51-2f29674484b0": {
+    "id": "ad61adb7-77f1-48cf-8a51-2f29674484b0",
+    "github_id": null,
+    "username": "adminnbn",
+    "email": "Nbnbjvjghv@hchv.hh",
+    "password_hash": "scrypt:32768:8:1$z3fDwbANwEl1nNiN$716d6788f42001a3022a8a25c0e9c6b64cd6e1e6794f33dbb6817000c7ac56a211d5d3ec8f42ae6d1369a784995634cc2d4a650a87223f65f7736be0df6d5df3",
+    "avatar_url": null
+  }
+}
