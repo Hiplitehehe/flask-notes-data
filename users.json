@@ -117,5 +117,18 @@
     "email_verified": false,
     "created_at": "2025-03-13T14:26:22.802291",
     "last_verification_email": "2025-03-13T14:49:52.590536"
+  },
+  "2b7c3036-c3cd-4ff1-aa84-3075195c1c4f": {
+    "id": "2b7c3036-c3cd-4ff1-aa84-3075195c1c4f",
+    "github_id": null,
+    "username": "adminnbn",
+    "email": "hiplitehehe@gmail.com",
+    "password_hash": "scrypt:32768:8:1$SQgrRVAaTGMJeUxh$d080ad09dc497732550099814783dffa31c75c9b04b72178f0e2bf01171c3111b4381f0a5968b3601b13d0285852590e218a99efef5ba49fdd1ba5caf93f1c50",
+    "avatar_url": null,
+    "is_admin": false,
+    "is_active": false,
+    "email_verified": false,
+    "created_at": "2025-03-13T15:07:37.229495",
+    "last_verification_email": "2025-03-13T15:07:37.339081"
   }
 }
