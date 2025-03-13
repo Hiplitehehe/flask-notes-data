@@ -77,5 +77,14 @@
     "password_hash": "scrypt:32768:8:1$knXKbzUQ92fCZwdu$c2557d02f40e02146b661a8a46c7ed4371c4dc7a5e29c141490d437e3a3c258e88ed4b4171458624f8bb6300a56a189f4184974081de4d7deafd1d5b66674537",
     "avatar_url": null,
     "is_admin": true
+  },
+  "2e677669-792d-4254-9b50-7bbd9282d7ff": {
+    "id": "2e677669-792d-4254-9b50-7bbd9282d7ff",
+    "github_id": null,
+    "username": "testuser",
+    "email": "user@example.com",
+    "password_hash": "scrypt:32768:8:1$OR1lF0kDG9898hRs$e8f7a0e0a606ded144d5937233c0df0e40d8de6193081ce6f61b6412dd9cbbf8cc7839b0754efab9b1ab55ff23d7f1d14165863856061fb5216c97ed5f5bb965",
+    "avatar_url": null,
+    "is_admin": false
   }
 }
