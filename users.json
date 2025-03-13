@@ -86,5 +86,14 @@
     "password_hash": "scrypt:32768:8:1$OR1lF0kDG9898hRs$e8f7a0e0a606ded144d5937233c0df0e40d8de6193081ce6f61b6412dd9cbbf8cc7839b0754efab9b1ab55ff23d7f1d14165863856061fb5216c97ed5f5bb965",
     "avatar_url": null,
     "is_admin": false
+  },
+  "2ee79fae-2ee2-425a-8107-b22ea53c7a94": {
+    "id": "2ee79fae-2ee2-425a-8107-b22ea53c7a94",
+    "github_id": null,
+    "username": "adminnbn",
+    "email": "rifoco1785@kdjdjd.dkkd",
+    "password_hash": "scrypt:32768:8:1$SlTqaSIKLUR2lVTD$cdc1e989ac96552f040b9e306c0fd97f6277299208b6cf990627cfa08e4d7c24800dd242d0e003d04b4ad463d2605572da428677ea576c3903a1873ee5d70600",
+    "avatar_url": null,
+    "is_admin": false
   }
 }
