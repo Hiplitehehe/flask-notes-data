@@ -95,5 +95,14 @@
     "password_hash": "scrypt:32768:8:1$SlTqaSIKLUR2lVTD$cdc1e989ac96552f040b9e306c0fd97f6277299208b6cf990627cfa08e4d7c24800dd242d0e003d04b4ad463d2605572da428677ea576c3903a1873ee5d70600",
     "avatar_url": null,
     "is_admin": false
+  },
+  "e31d38d5-33c8-4985-b124-cb30bca4630e": {
+    "id": "e31d38d5-33c8-4985-b124-cb30bca4630e",
+    "github_id": null,
+    "username": "adminnbn",
+    "email": "Nbnbjvjghv@qacmjeq.com",
+    "password_hash": "scrypt:32768:8:1$fcmPICLFf8WN57cx$f6c9510951c0502872e5bb65635bee8b8a5eed7501f938237f5b00ff3e5bb7c6d61d9398921de745944fc5a81b1c233904ff841b248e6c95ec65e73e26648074",
+    "avatar_url": null,
+    "is_admin": false
   }
 }
