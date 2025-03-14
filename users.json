@@ -130,5 +130,19 @@
     "email_verified": false,
     "created_at": "2025-03-13T15:07:37.229495",
     "last_verification_email": "2025-03-13T15:56:52.073721"
+  },
+  "61b561ea-1bf2-4868-b567-1ae6de8584e2": {
+    "id": "61b561ea-1bf2-4868-b567-1ae6de8584e2",
+    "github_id": null,
+    "discord_id": "1165151423646941204",
+    "username": "prime_axolotl_73389",
+    "email": "nothepped@gmail.com",
+    "password_hash": null,
+    "avatar_url": "https://cdn.discordapp.com/avatars/1165151423646941204/0b78d20b0a3687fb5b13c704f701055b.png",
+    "is_active": true,
+    "is_admin": false,
+    "email_verified": true,
+    "created_at": "2025-03-14T03:03:05.338785",
+    "last_verification_email": null
   }
 }
